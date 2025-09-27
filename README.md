@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://discordapp.com/users/569940163304620059/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="steam logo"  />
   </a>
 </div>
 <div align="right">
