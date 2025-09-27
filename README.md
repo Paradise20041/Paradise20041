@@ -3,6 +3,11 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
+<div align="right">
+  <a href="[https://discordapp.com/users/569940163304620059](https://steamcommunity.com/id/ParadiseIFQL/)/" target="_blank">
+    <img src="[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 ###
 
