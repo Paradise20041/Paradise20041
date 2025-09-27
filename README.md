@@ -28,17 +28,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://discordapp.com/users/569940163304620059/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/ParadiseFQL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://steamcommunity.com/id/ParadiseIFQL/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white"  />
-  </a>
-</div>
-
-###
